@@ -1,0 +1,2 @@
+class Navi < ApplicationRecord
+end
