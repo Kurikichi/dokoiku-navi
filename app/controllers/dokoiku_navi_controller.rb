@@ -1,0 +1,2 @@
+class DokoikuNaviController < ApplicationController
+end
