@@ -1,0 +1,2 @@
+class NaviController < ApplicationController
+end
